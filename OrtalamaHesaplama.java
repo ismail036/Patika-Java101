@@ -27,6 +27,9 @@ public class OrtalamaHesaplama {
         double notOrtalamsı = toplam / 6;
 
         System.out.println("Not ortalamanız :  " + notOrtalamsı);
+        
+        System.out.println(notOrtalamsı <= 60 ?  "Sınıfta Kaldı" : "Sınıfı geçti") ;
+
 
     }
 }
