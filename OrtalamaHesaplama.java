@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class OrtalamaHesaplama {
     public static void main(String[] args) throws Exception {
         Scanner input = new Scanner(System.in);
 
