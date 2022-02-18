@@ -23,7 +23,7 @@ public class App {
         }
 
         for(int i : tekrarEdenCiftSayi){
-            System.out.print("Tekrar eden çift sayılar : " + i + " ");
+            System.out.print(i + " ");
         }
     }
 }
